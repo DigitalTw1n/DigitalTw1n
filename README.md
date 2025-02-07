@@ -5,7 +5,7 @@
 
 ## 🎯 Professional Profile
 
-Passionate cybersecurity student with an insatiable thirst for discovery and learning in the field of penetration testing. Determined to become an ethical hacker, I apply my knowledge by identifying and exploiting vulnerabilities to strengthen system security. Always curious and seeking new challenges, I develop my skills through personal projects and Labs.
+Cybersecurity student eager to learn more about penetration testing; I have a thirst for discovery. I want to become an ethical hacker so I use my knowledge to find and exploit vulnerable points in a system to make it more secure. I am always curious, eager to learn more, go deeper, and push myself through my own projects and Labs.
 
 
 ## 🛠 Technical Skills
