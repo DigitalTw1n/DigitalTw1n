@@ -1,6 +1,6 @@
 # CUDENNEC Evann
 
-🔗 [LinkedIn](https://www.linkedin.com/in/evann-cudennec/) | 🛠 [GitHub](https://github.com/DigitalTw1n) | [HackTheBox](https://app.hackthebox.com/users/2126567)
+🔗 [LinkedIn](https://www.linkedin.com/in/evann-cudennec/) | 🛠 [GitHub](https://github.com/DigitalTw1n) | 📦 [HackTheBox](https://app.hackthebox.com/users/2126567)
 
 
 ## 🎯 Professional Profile
